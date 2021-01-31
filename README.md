@@ -1,15 +1,17 @@
-### Hi and welcome! 👋
+### Hi
 
-🙎🏻‍♀️ My name is Nara.
+🙎🏻‍♀️ My name is Nara. <br>
+I'm a hacker in New York City.
 
-I grew up in Korea, the UK, and the Midwest and NYC is where I call home.
-My background is in engineering, maritime, and computer science.
+My source code is from South Korea, and it was standardized in the UK and the Midwest.
+
+My backend is built with engineering and maritime shipping.
+
+Is it cliché that I like puzzles?
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hurricanenara&show_icons=true&theme=radical)
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hurricanenara&show_icons=true&theme=radical)
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hurricanenara&show_icons=true&theme=dracula)
+
 
 <!--
 **hurricanenara/hurricanenara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
