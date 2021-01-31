@@ -9,7 +9,10 @@ My backend is built with engineering and maritime shipping.
 
 Is it cliché that I like puzzles?
 
-![Font Aweesome LinkedIn](/assets/linkedin.svg)
+<a href="https://hurricanenara.github.io/" target="_blank">
+  <img src="https://github.com/hurricanenara/hurricanenara/blob/main/assets/linkedin.svg"/>
+</a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hurricanenara&show_icons=true&theme=dracula)
 
