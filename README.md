@@ -1,4 +1,4 @@
-### Hi
+### Hola!
 
 🙎🏻‍♀️ My name is Nara. <br>
 I'm a hacker in New York City.
@@ -9,7 +9,10 @@ My backend is built with engineering and maritime shipping.
 
 Is it cliché that I like puzzles?
 
-![Font Awesome LinkedIn](/assets/linkedin.svg)
+<a href="https://www.linkedin.com/in/hurricanenara/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/hurricanenara/hurricanenara/blob/main/assets/linkedin.svg"/>
+</a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hurricanenara&show_icons=true&theme=dracula)
 
