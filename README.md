@@ -11,7 +11,7 @@ Is it cliché that I like puzzles?
 
 [LinkedIn](https://www.linkedin.com/in/hurricanenara/) • [Portfolio](https://narakim.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hurricanenara&show_icons=true&theme=dracula)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hurricanenara&show_icons=true&theme=dracula) -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhurricanenara&count_bg=%23D4F9B8&title_bg=%23FFCDF9&icon=&icon_color=%23C9B2B2&title=visits&edge_flat=true)](https://narakim.com)
 
