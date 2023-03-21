@@ -1,4 +1,4 @@
-### Hola!
+### Hi!
 
 🙎🏻‍♀️ My name is Nara. <br>
 I'm a hacker in New York City.
@@ -8,8 +8,6 @@ My source code is from South Korea, and it was standardized in the UK and the Mi
 My backend is built with engineering and maritime shipping.
 
 Is it cliché that I like puzzles?
-
-[LinkedIn](https://www.linkedin.com/in/hurricanenara/) • [Portfolio](https://narakim.com)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hurricanenara&show_icons=true&theme=dracula) -->
 
